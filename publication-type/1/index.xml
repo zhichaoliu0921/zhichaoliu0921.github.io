@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Zhichao Liu</title>
-    <link>/publication-type/1/</link>
-      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>zhichaoliu.me/publication-type/1/</link>
+      <atom:link href="zhichaoliu.me/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Zhichao Liu. All rights reserved.</copyright><lastBuildDate>Fri, 30 Oct 2020 22:15:32 -0800</lastBuildDate>
     <image>
-      <url>/images/icon_hu61bfbdb101778ee519afd0aa762de0eb_7276_512x512_fill_lanczos_center_2.png</url>
+      <url>/zhichaoliu.me/images/icon_hu61bfbdb101778ee519afd0aa762de0eb_7276_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
-      <link>/publication-type/1/</link>
+      <link>zhichaoliu.me/publication-type/1/</link>
     </image>
     
     <item>
       <title>Motion Planning for Collision-resilient Mobile Robots in Obstacle-cluttered Unknown Environments with Risk Reward Trade-offs</title>
-      <link>/publication/iros2020/</link>
+      <link>zhichaoliu.me/publication/iros2020/</link>
       <pubDate>Fri, 30 Oct 2020 22:15:32 -0800</pubDate>
-      <guid>/publication/iros2020/</guid>
+      <guid>zhichaoliu.me/publication/iros2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SoRX: A Soft Pneumatic Hexapedal Robot to Traverse Rough, Steep, and Unstable Terrain</title>
-      <link>/publication/sorx/</link>
+      <link>zhichaoliu.me/publication/sorx/</link>
       <pubDate>Tue, 15 Sep 2020 22:46:56 -0800</pubDate>
-      <guid>/publication/sorx/</guid>
+      <guid>zhichaoliu.me/publication/sorx/</guid>
       <description></description>
     </item>
     

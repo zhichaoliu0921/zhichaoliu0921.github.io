@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>教程 | Zhichao Liu</title>
-    <link>/category/%E6%95%99%E7%A8%8B/</link>
-      <atom:link href="/category/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <link>zhichaoliu.me/category/%E6%95%99%E7%A8%8B/</link>
+      <atom:link href="zhichaoliu.me/category/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
     <description>教程</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Zhichao Liu. All rights reserved.</copyright><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu61bfbdb101778ee519afd0aa762de0eb_7276_512x512_fill_lanczos_center_2.png</url>
+      <url>/zhichaoliu.me/images/icon_hu61bfbdb101778ee519afd0aa762de0eb_7276_512x512_fill_lanczos_center_2.png</url>
       <title>教程</title>
-      <link>/category/%E6%95%99%E7%A8%8B/</link>
+      <link>zhichaoliu.me/category/%E6%95%99%E7%A8%8B/</link>
     </image>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>/post/getting-started/</link>
+      <link>zhichaoliu.me/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/post/getting-started/</guid>
+      <guid>zhichaoliu.me/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
