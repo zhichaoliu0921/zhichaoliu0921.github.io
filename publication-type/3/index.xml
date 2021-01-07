@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | Zhichao Liu</title>
-    <link>zhichaoliu0921.github.io/publication-type/3/</link>
-      <atom:link href="zhichaoliu0921.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>zhichaoliu.me/publication-type/3/</link>
+      <atom:link href="zhichaoliu.me/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Zhichao Liu. All rights reserved.</copyright><lastBuildDate>Tue, 01 Jun 2021 22:51:58 -0800</lastBuildDate>
     <image>
-      <url>/zhichaoliu0921.github.io/images/icon_hu61bfbdb101778ee519afd0aa762de0eb_7276_512x512_fill_lanczos_center_2.png</url>
+      <url>/zhichaoliu.me/images/icon_hu61bfbdb101778ee519afd0aa762de0eb_7276_512x512_fill_lanczos_center_2.png</url>
       <title>3</title>
-      <link>zhichaoliu0921.github.io/publication-type/3/</link>
+      <link>zhichaoliu.me/publication-type/3/</link>
     </image>
     
     <item>
       <title>Toward Impact-resilient Quadrotor Design, Collision Characterization and Recovery Control to Sustain Flight after Collisions</title>
-      <link>zhichaoliu0921.github.io/publication/arq/</link>
+      <link>zhichaoliu.me/publication/arq/</link>
       <pubDate>Tue, 01 Jun 2021 22:51:58 -0800</pubDate>
-      <guid>zhichaoliu0921.github.io/publication/arq/</guid>
+      <guid>zhichaoliu.me/publication/arq/</guid>
       <description></description>
     </item>
     

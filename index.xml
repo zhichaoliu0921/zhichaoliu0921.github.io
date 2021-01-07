@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhichao Liu</title>
-    <link>zhichaoliu0921.github.io/</link>
-      <atom:link href="zhichaoliu0921.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>zhichaoliu.me/</link>
+      <atom:link href="zhichaoliu.me/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhichao Liu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Zhichao Liu. All rights reserved.</copyright><lastBuildDate>Tue, 01 Jun 2021 22:51:58 -0800</lastBuildDate>
     <image>
-      <url>/zhichaoliu0921.github.io/images/icon_hu61bfbdb101778ee519afd0aa762de0eb_7276_512x512_fill_lanczos_center_2.png</url>
+      <url>/zhichaoliu.me/images/icon_hu61bfbdb101778ee519afd0aa762de0eb_7276_512x512_fill_lanczos_center_2.png</url>
       <title>Zhichao Liu</title>
-      <link>zhichaoliu0921.github.io/</link>
+      <link>zhichaoliu.me/</link>
     </image>
     
     <item>
       <title>Toward Impact-resilient Quadrotor Design, Collision Characterization and Recovery Control to Sustain Flight after Collisions</title>
-      <link>zhichaoliu0921.github.io/publication/arq/</link>
+      <link>zhichaoliu.me/publication/arq/</link>
       <pubDate>Tue, 01 Jun 2021 22:51:58 -0800</pubDate>
-      <guid>zhichaoliu0921.github.io/publication/arq/</guid>
+      <guid>zhichaoliu.me/publication/arq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Motion Planning for Collision-resilient Mobile Robots in Obstacle-cluttered Unknown Environments with Risk Reward Trade-offs</title>
-      <link>zhichaoliu0921.github.io/publication/iros2020/</link>
+      <link>zhichaoliu.me/publication/iros2020/</link>
       <pubDate>Fri, 30 Oct 2020 22:15:32 -0800</pubDate>
-      <guid>zhichaoliu0921.github.io/publication/iros2020/</guid>
+      <guid>zhichaoliu.me/publication/iros2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SoRX: A Soft Pneumatic Hexapedal Robot to Traverse Rough, Steep, and Unstable Terrain</title>
-      <link>zhichaoliu0921.github.io/publication/sorx/</link>
+      <link>zhichaoliu.me/publication/sorx/</link>
       <pubDate>Tue, 15 Sep 2020 22:46:56 -0800</pubDate>
-      <guid>zhichaoliu0921.github.io/publication/sorx/</guid>
+      <guid>zhichaoliu.me/publication/sorx/</guid>
       <description></description>
     </item>
     
     <item>
       <title> 2020 International Conference on Robotics and Automation</title>
-      <link>zhichaoliu0921.github.io/talk/2020-international-conference-on-robotics-and-automation/</link>
+      <link>zhichaoliu.me/talk/2020-international-conference-on-robotics-and-automation/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
-      <guid>zhichaoliu0921.github.io/talk/2020-international-conference-on-robotics-and-automation/</guid>
+      <guid>zhichaoliu.me/talk/2020-international-conference-on-robotics-and-automation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development of a Soft Robotic Wearable Device to Assist Infant Reaching</title>
-      <link>zhichaoliu0921.github.io/publication/wearable/</link>
+      <link>zhichaoliu.me/publication/wearable/</link>
       <pubDate>Mon, 04 May 2020 22:33:49 -0800</pubDate>
-      <guid>zhichaoliu0921.github.io/publication/wearable/</guid>
+      <guid>zhichaoliu.me/publication/wearable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>zhichaoliu0921.github.io/slides/example/</link>
+      <link>zhichaoliu.me/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>zhichaoliu0921.github.io/slides/example/</guid>
+      <guid>zhichaoliu.me/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -183,9 +183,9 @@ Three
     
     <item>
       <title>Example Project</title>
-      <link>zhichaoliu0921.github.io/project/example/</link>
+      <link>zhichaoliu.me/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>zhichaoliu0921.github.io/project/example/</guid>
+      <guid>zhichaoliu.me/project/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -196,9 +196,9 @@ Three
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>zhichaoliu0921.github.io/post/getting-started/</link>
+      <link>zhichaoliu.me/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>zhichaoliu0921.github.io/post/getting-started/</guid>
+      <guid>zhichaoliu.me/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
