@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Zhichao Liu</title>
-    <link>zhichaoliu.me/publication/</link>
-      <atom:link href="zhichaoliu.me/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Zhichao Liu. All rights reserved.</copyright><lastBuildDate>Tue, 01 Jun 2021 22:51:58 -0800</lastBuildDate>
     <image>
-      <url>/zhichaoliu.me/images/icon_hu61bfbdb101778ee519afd0aa762de0eb_7276_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu61bfbdb101778ee519afd0aa762de0eb_7276_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>zhichaoliu.me/publication/</link>
+      <link>/publication/</link>
     </image>
     
     <item>
       <title>Toward Impact-resilient Quadrotor Design, Collision Characterization and Recovery Control to Sustain Flight after Collisions</title>
-      <link>zhichaoliu.me/publication/arq/</link>
+      <link>/publication/arq/</link>
       <pubDate>Tue, 01 Jun 2021 22:51:58 -0800</pubDate>
-      <guid>zhichaoliu.me/publication/arq/</guid>
+      <guid>/publication/arq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Motion Planning for Collision-resilient Mobile Robots in Obstacle-cluttered Unknown Environments with Risk Reward Trade-offs</title>
-      <link>zhichaoliu.me/publication/iros2020/</link>
+      <link>/publication/iros2020/</link>
       <pubDate>Fri, 30 Oct 2020 22:15:32 -0800</pubDate>
-      <guid>zhichaoliu.me/publication/iros2020/</guid>
+      <guid>/publication/iros2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SoRX: A Soft Pneumatic Hexapedal Robot to Traverse Rough, Steep, and Unstable Terrain</title>
-      <link>zhichaoliu.me/publication/sorx/</link>
+      <link>/publication/sorx/</link>
       <pubDate>Tue, 15 Sep 2020 22:46:56 -0800</pubDate>
-      <guid>zhichaoliu.me/publication/sorx/</guid>
+      <guid>/publication/sorx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development of a Soft Robotic Wearable Device to Assist Infant Reaching</title>
-      <link>zhichaoliu.me/publication/wearable/</link>
+      <link>/publication/wearable/</link>
       <pubDate>Mon, 04 May 2020 22:33:49 -0800</pubDate>
-      <guid>zhichaoliu.me/publication/wearable/</guid>
+      <guid>/publication/wearable/</guid>
       <description></description>
     </item>
     
