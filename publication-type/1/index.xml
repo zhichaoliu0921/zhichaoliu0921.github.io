@@ -5,12 +5,20 @@
     <link>/publication-type/1/</link>
       <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Zhichao Liu. All rights reserved.</copyright><lastBuildDate>Fri, 30 Oct 2020 22:15:32 -0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Zhichao Liu. All rights reserved.</copyright><lastBuildDate>Tue, 01 Jun 2021 22:51:58 -0800</lastBuildDate>
     <image>
       <url>/images/icon_hu61bfbdb101778ee519afd0aa762de0eb_7276_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Toward Impact-resilient Quadrotor Design, Collision Characterization and Recovery Control to Sustain Flight after Collisions</title>
+      <link>/publication/arq/</link>
+      <pubDate>Tue, 01 Jun 2021 22:51:58 -0800</pubDate>
+      <guid>/publication/arq/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Motion Planning for Collision-resilient Mobile Robots in Obstacle-cluttered Unknown Environments with Risk Reward Trade-offs</title>
