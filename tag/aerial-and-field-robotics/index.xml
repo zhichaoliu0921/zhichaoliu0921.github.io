@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aerial and Field Robotics | Zhichao Liu</title>
+    <link>/tag/aerial-and-field-robotics/</link>
+      <atom:link href="/tag/aerial-and-field-robotics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aerial and Field Robotics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Zhichao Liu. All rights reserved.</copyright><lastBuildDate>Tue, 01 Jun 2021 22:51:58 -0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu61bfbdb101778ee519afd0aa762de0eb_7276_512x512_fill_lanczos_center_2.png</url>
+      <title>Aerial and Field Robotics</title>
+      <link>/tag/aerial-and-field-robotics/</link>
+    </image>
+    
+    <item>
+      <title>Toward Impact-resilient Quadrotor Design, Collision Characterization and Recovery Control to Sustain Flight after Collisions</title>
+      <link>/publication/arq/</link>
+      <pubDate>Tue, 01 Jun 2021 22:51:58 -0800</pubDate>
+      <guid>/publication/arq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

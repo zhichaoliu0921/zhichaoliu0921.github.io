@@ -5,12 +5,28 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Zhichao Liu. All rights reserved.</copyright><lastBuildDate>Tue, 01 Jun 2021 22:51:58 -0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Zhichao Liu. All rights reserved.</copyright><lastBuildDate>Thu, 14 Oct 2021 22:59:53 -0700</lastBuildDate>
     <image>
       <url>/images/icon_hu61bfbdb101778ee519afd0aa762de0eb_7276_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Position Control and Variable-Height Trajectory Tracking of a Soft Pneumatic Legged Robot</title>
+      <link>/publication/zliu2021iros/</link>
+      <pubDate>Thu, 14 Oct 2021 22:59:53 -0700</pubDate>
+      <guid>/publication/zliu2021iros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deformation Recovery Control and Post-impact Trajectory Replanning for Collision-resilient Mobile Robots </title>
+      <link>/publication/zlu2021iros/</link>
+      <pubDate>Wed, 13 Oct 2021 23:10:03 -0700</pubDate>
+      <guid>/publication/zlu2021iros/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Toward Impact-resilient Quadrotor Design, Collision Characterization and Recovery Control to Sustain Flight after Collisions</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wheeled Robots | Zhichao Liu</title>
+    <link>/tag/wheeled-robots/</link>
+      <atom:link href="/tag/wheeled-robots/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wheeled Robots</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Zhichao Liu. All rights reserved.</copyright><lastBuildDate>Wed, 13 Oct 2021 23:10:03 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu61bfbdb101778ee519afd0aa762de0eb_7276_512x512_fill_lanczos_center_2.png</url>
+      <title>Wheeled Robots</title>
+      <link>/tag/wheeled-robots/</link>
+    </image>
+    
+    <item>
+      <title>Deformation Recovery Control and Post-impact Trajectory Replanning for Collision-resilient Mobile Robots </title>
+      <link>/publication/zlu2021iros/</link>
+      <pubDate>Wed, 13 Oct 2021 23:10:03 -0700</pubDate>
+      <guid>/publication/zlu2021iros/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

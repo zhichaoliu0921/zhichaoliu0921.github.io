@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Legged Robots | Zhichao Liu</title>
+    <link>/tag/legged-robots/</link>
+      <atom:link href="/tag/legged-robots/index.xml" rel="self" type="application/rss+xml" />
+    <description>Legged Robots</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Zhichao Liu. All rights reserved.</copyright><lastBuildDate>Thu, 14 Oct 2021 22:59:53 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu61bfbdb101778ee519afd0aa762de0eb_7276_512x512_fill_lanczos_center_2.png</url>
+      <title>Legged Robots</title>
+      <link>/tag/legged-robots/</link>
+    </image>
+    
+    <item>
+      <title>Position Control and Variable-Height Trajectory Tracking of a Soft Pneumatic Legged Robot</title>
+      <link>/publication/zliu2021iros/</link>
+      <pubDate>Thu, 14 Oct 2021 22:59:53 -0700</pubDate>
+      <guid>/publication/zliu2021iros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SoRX: A Soft Pneumatic Hexapedal Robot to Traverse Rough, Steep, and Unstable Terrain</title>
+      <link>/publication/sorx/</link>
+      <pubDate>Tue, 15 Sep 2020 22:46:56 -0800</pubDate>
+      <guid>/publication/sorx/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
