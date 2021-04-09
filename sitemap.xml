@@ -93,6 +93,16 @@
   </url>
   
   <url>
+    <loc>/talk/2021-international-conference-on-robotics-and-automation/</loc>
+    <lastmod>2021-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/event/</loc>
+    <lastmod>2021-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/iros2020/</loc>
     <lastmod>2020-10-30T22:15:32-08:00</lastmod>
   </url>
@@ -104,11 +114,6 @@
   
   <url>
     <loc>/talk/2020-international-conference-on-robotics-and-automation/</loc>
-    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/event/</loc>
     <lastmod>2020-05-31T00:00:00+00:00</lastmod>
   </url>
   
