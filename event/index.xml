@@ -5,12 +5,20 @@
     <link>/event/</link>
       <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Zhichao Liu. All rights reserved.</copyright><lastBuildDate>Mon, 31 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Zhichao Liu. All rights reserved.</copyright><lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu61bfbdb101778ee519afd0aa762de0eb_7276_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/event/</link>
     </image>
+    
+    <item>
+      <title>2021 IEEE/RSJ International Conference on Intelligent Robots and Systems</title>
+      <link>/talk/2021-ieee/rsj-international-conference-on-intelligent-robots-and-systems/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/2021-ieee/rsj-international-conference-on-intelligent-robots-and-systems/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>2021 IEEE International Conference on Robotics and Automation</title>

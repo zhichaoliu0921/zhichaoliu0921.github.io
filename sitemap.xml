@@ -78,6 +78,16 @@
   </url>
   
   <url>
+    <loc>/talk/2021-ieee/rsj-international-conference-on-intelligent-robots-and-systems/</loc>
+    <lastmod>2021-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/event/</loc>
+    <lastmod>2021-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/aerial-and-field-robotics/</loc>
     <lastmod>2021-06-01T22:51:58-08:00</lastmod>
   </url>
@@ -89,11 +99,6 @@
   
   <url>
     <loc>/talk/2021-ieee-international-conference-on-robotics-and-automation/</loc>
-    <lastmod>2021-05-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/event/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
   </url>
   
