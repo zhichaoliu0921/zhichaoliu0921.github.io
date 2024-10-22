@@ -22,7 +22,7 @@
                 <p class="name" style="text-align: center;">
                   Dr. Zhichao Liu
                 </p>
-                <p>I'm a Postdoc at <a href="https://sites.google.com/view/arcs-lab/">University of California Riverside</a> in Riverside CA, I lead research efforts in Robotic Learning, Perception, and Embodied Navigation, with applications in Precision Farming and Autonomy in Fields.
+                <p>I'm a Postdoc at <a href="https://sites.google.com/view/arcs-lab/">University of California Riverside</a> in Riverside CA, I lead research efforts in robotic learning, perception, and embodied AI navigation, with a focus on applications in precision farming and field autonomy
                 </p>
                 
                 <p style="text-align:center">
@@ -66,12 +66,11 @@
         </script>
       </td>
       <td style="padding:20px;width:75%;vertical-align:middle">
-        <a href="https://nerf-casting.github.io/">
-          <span class="papertitle">Hierarchical Tri-manual Planning for Vision-assisted Fruit Harvesting with Quadrupedal Robots</span>
-        </a>
+        <span class="papertitle">Hierarchical Tri-manual Planning for Vision-assisted Fruit Harvesting with Quadrupedal Robots</span>
+        
         <br>
 		
-        <strong>Zhichao Liu*</strong>
+        <strong>Zhichao Liu*</strong>,
         <a href="https://scholar.google.com/citations?user=V6cqBEYAAAAJ&hl=en">Jingzong Zhou*</a>,
         <a href="https://scholar.google.com/citations?user=4Urexvi1sIcC&hl=en">Konstantinos Karydis</a>
         <br>
@@ -93,7 +92,7 @@
 	<tr onmouseout="nerfcasting_stop()" onmouseover="nerfcasting_start()">
       <td style="padding:10px;width:35%;vertical-align:middle">
         <div class="one">
-          <img src='images/deployment.png' width=150%>
+          <img src='images/cody.png' width=150%>
         </div>
         <script type="text/javascript">
           function nerfcasting_start() {
@@ -107,68 +106,405 @@
         </script>
       </td>
       <td style="padding:20px;width:75%;vertical-align:middle">
-        <a href="https://nerf-casting.github.io/">
           <span class="papertitle">Language-guided Robust Navigation for Mobile Robots in Dynamically-changing Environments</span>
-        </a>
         <br>
 		<a href="https://scholar.google.com/citations?user=98Dftx4AAAAJ">Cody Simons</a>,
-        <strong>Zhichao Liu</strong>
+        <strong>Zhichao Liu</strong>,
         <a href="https://www.linkedin.com/in/brandon-marcus-162355130/">Brandon Marcus</a>,
 		<a href="https://scholar.google.com/citations?user=hfgwx0oAAAAJ&hl=en">Amit K Roy-Chowdhury</a>,
         <a href="https://scholar.google.com/citations?user=4Urexvi1sIcC&hl=en">Konstantinos Karydis</a>
         <br>
         <em>IEEE International Conference on Robotics and Automation (ICRA)</em>, 2025 (Under Review)
         <br>
-        <a href="https://zhichaos-wiki.gitbook.io/zl-projects/">project page</a>
+        <a href="https://zhichaos-wiki.gitbook.io/zl-projects/language-guided-robust-navigation-for-mobile-robots-in-dynamically-changing-environments">project page</a>
         /
-        <a href="https://arxiv.org/abs/2409.17116">arXiv</a>
+        <a href="https://arxiv.org/abs/2409.19459">arXiv</a>
 	/
-	<a href="https://www.youtube.com/watch?v=8rIOHy52VHA">video</a>
+	<a href="https://youtu.be/-c0CyWZ495w">video</a>
         <p></p>
         <p>
-        This paper addresses the challenge of developing a multi-arm quadrupedal robot capable of efficiently harvesting fruit in complex, natural environments. We introduce the first three-arm quadrupedal robot LocoHarv-3 and propose a novel hierarchical tri-manual planning approach, enabling automated fruit harvesting with collision-free trajectories. 
-		Our comprehensive semi-autonomous framework integrates teleoperation, supported by LiDAR-based odometry and mapping, with learning-based visual perception for accurate fruit detection and pose estimation. 
+        This paper presents an embodied AI system designed for human-in-the-loop navigation using a wheeled mobile robot. The authors propose an effective method to monitor the robot’s current plan, detect significant environmental changes affecting its trajectory, and query a human for feedback. The system translates human feedback provided in natural language into local navigation waypoints, integrating these into a global planning framework that uses a semantic feature map and obstacle map. 
         </p>
       </td>
     </tr>
 	
 
-	<tr onmouseout="hdrp_stop()" onmouseover="hdrp_start()">
-	  <td style="padding:20px;width:25%;vertical-align:middle">
-		<div class="one">
-		  <div class="two" id='hdrp_image'><img src='images/hdrp_after.jpg'></div>
-		  <img src='images/hdrp_before.jpg'>
-		</div>
-		<script type="text/javascript">
-		  function hdrp_start() {
-			document.getElementById('hdrp_image').style.opacity = "1";
-		  }
+		<tr onmouseout="nerfcasting_stop()" onmouseover="nerfcasting_start()">
+      <td style="padding:10px;width:35%;vertical-align:middle">
+        <div class="one">
+          <img src='images/uav_dual_arm.png' width=150%>
+        </div>
+        <script type="text/javascript">
+          function nerfcasting_start() {
+            document.getElementById('nerfcasting_image').style.opacity = "1";
+          }
 
-		  function hdrp_stop() {
-			document.getElementById('hdrp_image').style.opacity = "0";
-		  }
-		  hdrp_stop()
-		</script>
-	  </td>
-	  <td style="padding:20px;width:75%;vertical-align:middle">
-		<a href="https://drive.google.com/file/d/1SSSmVHWbMQ7sZMOredSVWVJXbXobkyzA/view?usp=sharing">
-		  <span class="papertitle">Burst Photography for High Dynamic Range and Low-Light Imaging on Mobile Cameras</span>
-		</a>
-		<br>
-		<a href="http://people.csail.mit.edu/hasinoff/">Samuel W. Hasinoff</a>, <a href="http://www.dsharlet.com/">Dillon Sharlet</a>, <a href="http://www.geisswerks.com/">Ryan Geiss</a>, <a href="http://people.csail.mit.edu/abadams/">Andrew Adams</a>, <strong>Jonathan T. Barron</strong>, Florian Kainz, <a href="http://people.csail.mit.edu/jiawen/">Jiawen Chen</a>, <a href="http://graphics.stanford.edu/~levoy/">Marc Levoy</a>
-		<br>
-		<em>SIGGRAPH Asia</em>, 2016
-		<br>
-		<a href="http://hdrplusdata.org/">project page</a> /
-		<a href="https://drive.google.com/open?id=15EUuSDi1BtHUgQCaiooVrD44qYKIC3vx">supplement</a> /
-		<a href="data/Hasinoff2016.bib">bibtex</a>
-		<p></p>
-		<p>Mobile phones can take beautiful photographs in low-light or high dynamic range environments by aligning and merging a burst of images.</p>
-		<p>This technology is used by the <a href="https://research.googleblog.com/2014/10/hdr-low-light-and-high-dynamic-range.html">Nexus HDR+</a> feature.</p>
-	  </td>
+          function nerfcasting_stop() {
+            document.getElementById('nerfcasting_image').style.opacity = "0";
+          }
+          nerfcasting_stop()
+        </script>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+          <span class="papertitle">Vision-assisted Avocado Harvesting with Aerial Bimanual Manipulation</span>
+        <br>
+        <strong>Zhichao Liu*</strong>,
+        <a href="https://scholar.google.com/citations?user=V6cqBEYAAAAJ&hl=en">Jingzong Zhou*</a>,
+		<a href="https://scholar.google.com/citations?user=ij2hZTEAAAAJ&hl=en">Caio Mucchiani</a>,
+        <a href="https://scholar.google.com/citations?user=4Urexvi1sIcC&hl=en">Konstantinos Karydis</a>
+        <br>
+		
+        <em>Advanced Intelligent Systems</em>, 2024 (Under Review)
+        <br>
+        <a href="https://zhichaos-wiki.gitbook.io/zl-projects/vision-assisted-avocado-harvesting-with-aerial-bimanual-manipulation">project page</a>
+        /
+        <a href="https://arxiv.org/abs/2409.19459">arXiv</a>
+	/
+	<a href="https://youtu.be/-c0CyWZ495w">video</a>
+        <p></p>
+        <p>
+This paper explores the design and implementation of a bimanual UAV for autonomous avocado harvesting, aimed at improving efficiency in precision agriculture. Ground-based robots are often ineffective for crops like avocados due to unstructured terrain and hard-to-reach fruits. To address this, the UAV is equipped with two arms: a gripper and a fixer arm. The gripper detaches avocados by applying rotational motion, while the fixer arm stabilizes the peduncle, which can store elastic energy, preventing detachment. The UAV employs visual perception and learning to detect avocados and estimate their pose, which informs the bimanual manipulation planner.     </p>
+      </td>
+    </tr>
+
+
+	<tr onmouseout="nerfcasting_stop()" onmouseover="nerfcasting_start()">
+      <td style="padding:10px;width:35%;vertical-align:middle">
+        <div class="one">
+          <img src='images/CP_small.png' width=150%>
+        </div>
+        <script type="text/javascript">
+          function nerfcasting_start() {
+            document.getElementById('nerfcasting_image').style.opacity = "1";
+          }
+
+          function nerfcasting_stop() {
+            document.getElementById('nerfcasting_image').style.opacity = "0";
+          }
+          nerfcasting_stop()
+        </script>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+          <span class="papertitle">Contact-prioritized planning of impact-resilient aerial robots with an integrated compliant arm</span>
+        <br>
+        <strong>Zhichao Liu</strong>,
+        <a href="https://scholar.google.com/citations?user=wPRYBKsAAAAJ&hl=en">Zhouyu Lu</a>,
+		<a href="https://scholar.google.com/citations?user=36qnUD4AAAAJ&hl=en">Ali-akbar Agha-mohammadi</a>,
+        <a href="https://scholar.google.com/citations?user=4Urexvi1sIcC&hl=en">Konstantinos Karydis</a>
+        <br>
+		
+        <em>IEEE/ASME Transactions on Mechatronics</em>, 2023
+        <br>
+		<a href="https://ieeexplore.ieee.org/abstract/document/10155260">DOI</a>
+		/
+        <a href="https://arxiv.org/abs/2305.14680">arXiv</a>
+	/
+	<a href="https://youtu.be/Ks1tMMtjfGg">video</a>
+        <p></p>
+        <p>
+The article presents an impact-resilient aerial robot (s-ARQ) equipped with a compliant arm designed to reduce collision impact and sense contacts. The robot includes a real-time contact force estimator and a non-linear motion controller that enables it to handle collisions during aggressive maneuvers and stabilize after high-speed impacts with walls. Additionally, a new collision-inclusive planning method, which prioritizes contacts to assist navigation in cluttered environments, is introduced.      </td>
+    </tr>
+	
+	
+	<tr onmouseout="nerfcasting_stop()" onmouseover="nerfcasting_start()">
+      <td style="padding:10px;width:35%;vertical-align:middle">
+        <div class="one">
+          <img src='images/icra23.png' width=150%>
+        </div>
+        <script type="text/javascript">
+          function nerfcasting_start() {
+            document.getElementById('nerfcasting_image').style.opacity = "1";
+          }
+
+          function nerfcasting_stop() {
+            document.getElementById('nerfcasting_image').style.opacity = "0";
+          }
+          nerfcasting_stop()
+        </script>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+          <span class="papertitle">Dynamic Modeling and Analysis of Impact-resilient MAVs Undergoing High-speed and Large-angle Collisions with the Environment</span>
+        <br>
+        <strong>Zhichao Liu</strong>,
+        <a href="https://scholar.google.com/citations?user=4Urexvi1sIcC&hl=en">Konstantinos Karydis</a>
+        <br>
+		
+        <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, 2023
+        <br>
+		<a href="https://ieeexplore.ieee.org/abstract/document/10341848">DOI</a>
+		/
+        <a href="https://arxiv.org/abs/2307.11309">arXiv</a>
+	/
+	<a href="https://www.youtube.com/watch?v=b0xU2CzQWRg">video</a>
+        <p></p>
+        <p>
+This study explores the impact-resilient capabilities of MAVs with passive springs in their compliant arms, using dynamic modeling to show that compliance improves impact resilience. Extensive tests demonstrate the MAV's ability to stabilize after high-speed, large-angle wall collisions. The study also includes comparisons with rigid MAVs to assess the trade-offs of adding compliance to the robot's frame.    </tr>
 	</tr>
+	
+	
+	<tr onmouseout="nerfcasting_stop()" onmouseover="nerfcasting_start()">
+      <td style="padding:10px;width:35%;vertical-align:middle">
+        <div class="one">
+          
+        </div>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+          <span class="papertitle">Robust generalized proportional integral control for trajectory tracking of soft actuators in a pediatric wearable assistive device</span>
+        <br>
+		<a href="https://scholar.google.com/citations?user=ij2hZTEAAAAJ&hl=en">Caio Mucchiani</a>,
+        <strong>Zhichao Liu</strong>,
+		<a href="https://scholar.google.com/citations?user=ni2UOe0AAAAJ&hl=en">Ipsita Sahin</a>,
+		<a href="https://scholar.google.com/citations?user=g6fbac4AAAAJ&hl=en">Elena Kokkoni</a>,
+        <a href="https://scholar.google.com/citations?user=4Urexvi1sIcC&hl=en">Konstantinos Karydis</a>
+        <br>
+		
+        <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, 2023
+        <br>
+		<a href="https://ieeexplore.ieee.org/abstract/document/10342528">DOI</a>
+		/
+        <a href="https://arxiv.org/abs/2312.00289">arXiv</a>
+        <p></p>
+        <p>
 
-  </tbody></table>
+This paper develops and validates a closed-loop controller for soft pneumatic actuators in a pediatric wearable robotic device, achieving accurate trajectory tracking for two-degree-of-freedom shoulder motion in an infant-sized mannequin.	
+	
+	<tr onmouseout="nerfcasting_stop()" onmouseover="nerfcasting_start()">
+      <td style="padding:10px;width:35%;vertical-align:middle">
+        <div class="one">
+          
+        </div>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+          <span class="papertitle">Koopman operators for modeling and control of soft robotics</span>
+        <br>
+		<a href="https://scholar.google.com/citations?user=GhAmKBQAAAAJ&hl=en">Lu Shi</a>,
+        <strong>Zhichao Liu</strong>,
+        <a href="https://scholar.google.com/citations?user=4Urexvi1sIcC&hl=en">Konstantinos Karydis</a>
+        <br>
+		
+        <em>Current Robotics Reports</em>, 2023
+        <br>
+		<a href="https://link.springer.com/article/10.1007/s43154-023-00099-8">DOI</a>
+		/
+        <a href="https://arxiv.org/abs/2301.09708">arXiv</a>
+        <p></p>
+        <p>
+The paper provides a review of recent advances in the application of Koopman operator theory for the modeling and control of soft robots.	
+</tr>
+
+	<tr onmouseout="nerfcasting_stop()" onmouseover="nerfcasting_start()">
+      <td style="padding:10px;width:35%;vertical-align:middle">
+        <div class="one">
+          <div class="one">
+          <img src='images/frai22.png' width=150%>
+        </div>
+        </div>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+          <span class="papertitle">Safely catching aerial micro-robots in mid-air using an open-source aerial robot with soft gripper</span>
+        <br>
+        <strong>Zhichao Liu</strong>,
+		<a href="https://scholar.google.com/citations?user=ij2hZTEAAAAJ&hl=en">Caio Mucchiani</a>,
+		<a href="https://scholar.google.com/citations?user=0_Oh7ZYAAAAJ&hl=en">Keran Ye</a>,
+        <a href="https://scholar.google.com/citations?user=4Urexvi1sIcC&hl=en">Konstantinos Karydis</a>
+        <br>
+		
+        <em>Frontiers in Robotics and AI</em>, 2022
+        <br>
+		<a href="https://www.frontiersin.org/articles/10.3389/frobt.2022.1030515/full">DOI</a>
+		/
+        <a href="https://youtu.be/euO9ZnWgIko">video</a>
+        <p></p>
+        <p>
+This work presents the development of a Soft Aerial Gripper (SoAG) equipped with a horizontal soft gripper and pneumatic system, designed to safely catch aerial micro-robots mid-air by mitigating aerodynamic disturbances, with experimental results demonstrating its effectiveness in both static and dynamic grasping scenarios.
+</tr>
+
+
+<tr onmouseout="nerfcasting_stop()" onmouseover="nerfcasting_start()">
+      <td style="padding:10px;width:35%;vertical-align:middle">
+        <div class="one">
+          <div class="one">
+          <img src='images/tro22.png' width=150%>
+        </div>
+        </div>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+          <span class="papertitle">Online search-based collision-inclusive motion planning and control for impact-resilient mobile robots</span>
+        <br>
+		<a href="https://scholar.google.com/citations?user=wPRYBKsAAAAJ&hl=en">Zhouyu Lu</a>,
+        <strong>Zhichao Liu</strong>,
+		<a href="https://scholar.google.com/citations?user=dl5sZScAAAAJ&hl=en">Merrick Campbell</a>,
+        <a href="https://scholar.google.com/citations?user=4Urexvi1sIcC&hl=en">Konstantinos Karydis</a>
+        <br>
+		
+        <em>IEEE Transactions on Robotics</em>, 2022
+        <br>
+		<a href="https://ieeexplore.ieee.org/abstract/document/9929261">DOI</a>
+		/
+		<a href="https://arxiv.org/abs/2209.13684">arXiv</a>
+		/
+        <a href="https://youtu.be/NESFYmCYZok">video</a>
+        <p></p>
+        <p>
+This article introduces a hierarchical framework for collision-inclusive motion planning and control for impact-resilient mobile robots navigating in unknown and cluttered spaces. The framework integrates a local collision recovery and trajectory replanning strategy with a global search-based planning algorithm that exploits potential collisions to improve performance metrics like energy efficiency and computational time, showing efficacy through extensive simulation and experimental testing.
+</tr>
+
+
+<tr onmouseout="nerfcasting_stop()" onmouseover="nerfcasting_start()">
+      <td style="padding:10px;width:35%;vertical-align:middle">
+
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+          <span class="papertitle">Closed-loop position control of a pediatric soft robotic wearable device for upper extremity assistance</span>
+        <br>
+		<a href="https://scholar.google.com/citations?user=ij2hZTEAAAAJ&hl=en">Caio Mucchiani</a>,
+        <strong>Zhichao Liu</strong>,
+		<a href="https://scholar.google.com/citations?user=ni2UOe0AAAAJ&hl=en">Ipsita Sahin</a>,
+		Jared Dube,
+		Linh Vu,
+		<a href="https://scholar.google.com/citations?user=g6fbac4AAAAJ&hl=en">Elena Kokkoni</a>,
+        <a href="https://scholar.google.com/citations?user=4Urexvi1sIcC&hl=en">Konstantinos Karydis</a>
+        <br>
+		
+        <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, 2022
+        <br>
+		<a href="https://ieeexplore.ieee.org/abstract/document/9900650">DOI</a>
+		/
+		<a href="https://arxiv.org/abs/2206.08292">arXiv</a>
+        <p></p>
+        <p>
+This work presents a closed-loop control system for a soft wearable device with pneumatic actuators, using proprioceptive feedback from IMUs to assist infant reaching tasks by regulating joint motion based on anthropometric data and desired trajectories, with successful experimental results demonstrated on a mannequin.</tr>
+
+
+<tr onmouseout="nerfcasting_stop()" onmouseover="nerfcasting_start()">
+      <td style="padding:10px;width:35%;vertical-align:middle">
+
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+          <span class="papertitle">Deformation recovery control and post-impact trajectory replanning for collision-resilient mobile robots</span>
+        <br>
+		<a href="https://scholar.google.com/citations?user=wPRYBKsAAAAJ&hl=en">Zhouyu Lu</a>,
+        <strong>Zhichao Liu</strong>,
+        <a href="https://scholar.google.com/citations?user=4Urexvi1sIcC&hl=en">Konstantinos Karydis</a>
+        <br>
+		
+        <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, 2021
+        <br>
+		<a href="https://ieeexplore.ieee.org/abstract/document/9636276">DOI</a>
+		/
+		<a href="https://arxiv.org/abs/2108.01802">arXiv</a>
+        <p></p>
+        <p>
+This paper introduces a collision-inclusive motion planning approach for impact-resilient mobile robots, featuring a deformation recovery controller and post-impact trajectory replanner that optimize recovery after collisions and generate efficient trajectories, with experimental validation on an omnidirectional robot equipped with Hall effect sensors.</tr>
+
+
+<tr onmouseout="nerfcasting_stop()" onmouseover="nerfcasting_start()">
+      <td style="padding:10px;width:35%;vertical-align:middle">
+
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+          <span class="papertitle">Position control and variable-height trajectory tracking of a soft pneumatic legged robot</span>
+        <br>
+        <strong>Zhichao Liu</strong>,
+        <a href="https://scholar.google.com/citations?user=4Urexvi1sIcC&hl=en">Konstantinos Karydis</a>
+        <br>
+		
+        <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, 2021
+        <br>
+		<a href="https://ieeexplore.ieee.org/abstract/document/9635966">DOI</a>
+		/
+		<a href="https://arxiv.org/abs/2108.01338">arXiv</a>
+        <p></p>
+        <p>
+This paper presents a closed-loop trajectory tracking control scheme for soft pneumatic legged robots, demonstrating precise control of body height and orientation over flat terrain using a compact pneumatic regulation system, with experiments showing successful tracking of straight, curved, and variable-height trajectories, laying the foundation for autonomous navigation.
+ 
+<tr onmouseout="nerfcasting_stop()" onmouseover="nerfcasting_start()">
+      <td style="padding:10px;width:35%;vertical-align:middle">
+
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+          <span class="papertitle">Toward impact-resilient quadrotor design, collision characterization and recovery control to sustain flight after collisions</span>
+        <br>
+        <strong>Zhichao Liu</strong>,
+        <a href="https://scholar.google.com/citations?user=4Urexvi1sIcC&hl=en">Konstantinos Karydis</a>
+        <br>
+		
+        <em>IEEE International Conference on Robotics and Automation (ICRA)</em>, 2021
+        <br>
+		<a href="https://ieeexplore.ieee.org/abstract/document/9561089/">DOI</a>
+		/
+		<a href="https://arxiv.org/abs/2011.02061">arXiv</a>
+		/
+		<a href="https://www.youtube.com/watch?v=Kp4K7T1uvrU">video</a>
+        <p></p>
+        <p>
+This paper introduces a collision-resilient quadrotor with a compliant arm design that absorbs shocks, alongside a novel collision detection method using Hall sensors and a recovery control strategy for smooth trajectory tracking post-collision, demonstrating the robot's ability to detect and recover from high-speed impacts with various obstacles, including unstructured surfaces and moving objects. 
+
+<tr onmouseout="nerfcasting_stop()" onmouseover="nerfcasting_start()">
+      <td style="padding:10px;width:35%;vertical-align:middle">
+
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+          <span class="papertitle">Motion planning for collision-resilient mobile robots in obstacle-cluttered unknown environments with risk reward trade-offs</span>
+        <br>
+		<a href="https://scholar.google.com/citations?user=wPRYBKsAAAAJ&hl=en">Zhouyu Lu</a>,
+        <strong>Zhichao Liu</strong>,
+		Gustavo J. Correa,
+        <a href="https://scholar.google.com/citations?user=4Urexvi1sIcC&hl=en">Konstantinos Karydis</a>
+        <br>
+		
+        <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, 2020
+        <br>
+		<a href="https://ieeexplore.ieee.org/abstract/document/9341449">DOI</a>
+		/
+		<a href="https://arxiv.org/abs/2009.01973">arXiv</a>
+
+        <p></p>
+        <p>
+This paper presents a novel sampling-based online planning algorithm for navigating unknown, obstacle-cluttered environments by allowing potential collisions to be harnessed rather than avoided, featuring a joint optimization function that evaluates collision effects and a state expansion pruning technique to reduce search space, with experimental validation on a collision-tolerant holonomic wheeled robot exploring trade-offs between risk levels, collision decision-making, and trajectory efficiency. 
+
+<tr onmouseout="nerfcasting_stop()" onmouseover="nerfcasting_start()">
+      <td style="padding:10px;width:35%;vertical-align:middle">
+
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+          <span class="papertitle">Sorx: A soft pneumatic hexapedal robot to traverse rough, steep, and unstable terrain</span>
+        <br>
+		<strong>Zhichao Liu</strong>,
+		<a href="https://scholar.google.com/citations?user=wPRYBKsAAAAJ&hl=en">Zhouyu Lu</a>, 
+        <a href="https://scholar.google.com/citations?user=4Urexvi1sIcC&hl=en">Konstantinos Karydis</a>
+        <br>
+		
+        <em>IEEE International Conference on Robotics and Automation (ICRA)</em>, 2020
+        <br>
+		<a href="https://ieeexplore.ieee.org/abstract/document/9196731">DOI</a>
+
+        <p></p>
+        <p>
+This paper introduces SoRX, a novel soft robotic hexapedal robot utilizing a new 2-degree-of-freedom soft pneumatic actuator, achieving forward speeds of up to 0.44 body lengths per second while successfully navigating various challenging terrains using an alternating tripod gait.
+
+
+<tr onmouseout="nerfcasting_stop()" onmouseover="nerfcasting_start()">
+      <td style="padding:10px;width:35%;vertical-align:middle">
+
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+          <span class="papertitle">Development of a soft robotic wearable device to assist infant reaching</span>
+        <br>
+		<a href="https://scholar.google.com/citations?user=g6fbac4AAAAJ&hl=en">Elena Kokkoni</a>,
+		<strong>Zhichao Liu</strong>,
+        <a href="https://scholar.google.com/citations?user=4Urexvi1sIcC&hl=en">Konstantinos Karydis</a>
+        <br>
+		
+        <em>Journal of Engineering and Science in Medical Diagnostics and Therapy</em>, 2020
+        <br>
+		<a href="https://asmedigitalcollection.asme.org/medicaldiagnostics/article-abstract/3/2/021109/1074677">DOI</a>
+
+        <p></p>
+        <p>
+This project develops and evaluates the first actuated wearable device for infants with or at risk for motor impairments, featuring four pneumatic actuators to actively assist upper extremity movement, with positive results on performance, wearability, and safety during vertical reaching tasks.
+ 
+ </tbody></table>
 
           
           <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20"><tbody>
@@ -208,23 +544,7 @@
                 <a href="http://aima.cs.berkeley.edu/">Figures, "Artificial Intelligence: A Modern Approach", 3rd Edition</a>
               </td>
             </tr>
-            
 
-            <tr>
-              <td align="center" style="padding:20px;width:25%;vertical-align:middle">
-                <h2>Basically <br> Blog Posts</h2>
-              </td>
-              <td width="75%" valign="middle">
-                <a href="https://arxiv.org/abs/2112.11687">Squareplus: A Softplus-Like Algebraic Rectifier</a>
-                <br>
-                <a href="https://arxiv.org/abs/2010.09714">A Convenient Generalization of Schlick's Bias and Gain Functions</a>
-                <br>
-                <a href="https://arxiv.org/abs/1704.07483">Continuously Differentiable Exponential Linear Units</a>
-                <br>
-                <a href="https://jonbarron.info/data/cvpr2023_llm_workshop_annotated.pdf">Scholars & Big Models: How Can Academics Adapt?</a>
-              </td>
-            </tr>
-            
             
           </tbody></table>
           <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
@@ -232,7 +552,7 @@
               <td style="padding:0px">
                 <br>
                 <p style="text-align:right;font-size:small;">
-                  Feel free to steal this website's <a href="https://github.com/jonbarron/jonbarron_website">source code</a>. <strong>Do not</strong> scrape the HTML from this page itself, as it includes analytics tags that you do not want on your own website &mdash; use the github code instead. Also, consider using <a href="https://leonidk.com/">Leonid Keselman</a>'s <a href="https://github.com/leonidk/new_website">Jekyll fork</a> of this page.
+                  Based on the amazing template from <a href="https://github.com/jonbarron/jonbarron_website">source code</a>. 
                 </p>
               </td>
             </tr>
